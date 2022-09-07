@@ -20,7 +20,6 @@ p {
     font-size: 1rem;
 }
 
-
 /* Encabezado, barra de navegación: Logo de la pag */
 .navbar-img {
     width: 70%;
@@ -80,15 +79,6 @@ p {
 /* pie de pagina: contacto y config + ayuda */
 .contfooter {
     background-color: black;
-}
-
-.contfooter a {
-    text-decoration: none;
-    color: white;
-}
-
-.contfooter a:hover {
-    color: wheat;
 }
 
 .contacto__titulo{
