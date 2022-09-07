@@ -81,6 +81,15 @@ p {
     background-color: black;
 }
 
+.contfooter a {
+    text-decoration: none;
+    color: white;
+}
+
+.contfooter a:hover {
+    color: wheat;
+}
+
 .contacto__titulo{
     color: wheat;
 }
